@@ -1,10 +1,21 @@
 ## Hi there 👋
 
+🙋‍♀️ A short introduction
+
+labah inc is an Laundromat business and has utilized a revolutionary laundry concept in providing a totally new, bright and modern feel good environment, allowing customers to save MONEY, TIME, EFFORT, WATER and ELECTRICITY with the use of our highly efficient and durable Commercial Washers and Dryers.
+
+👩‍💻 Useful resources
+
+available soon...
+
+🍿 Teck stack
+
+Backoffice            : Laravel 9
+Customer mobile app   : Flutter
+Rider mobile app      : React Native
+
 <!--
-
 **Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
