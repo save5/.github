@@ -10,10 +10,12 @@ available soon...
 
 🍿 Teck stack
 
-- ** Backoffice **            
-    Laravel 9
-- Customer mobile app   : Flutter
-- Rider mobile app      : React Native
+- Backoffice            
+    ```Laravel 9```
+- Customer mobile app
+    ```Flutter```
+- Rider mobile app
+    ```React Native```
 
 <!--
 **Here are some ideas to get you started:**
