@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome to labah.ph 👋
 
-🙋‍♀️ A short introduction
+🙋‍♀️ ####A short introduction
 
 labah inc is an Laundromat business and has utilized a revolutionary laundry concept in providing a totally new, bright and modern feel good environment, allowing customers to save MONEY, TIME, EFFORT, WATER and ELECTRICITY with the use of our highly efficient and durable Commercial Washers and Dryers.
 
