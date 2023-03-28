@@ -10,7 +10,7 @@ available soon...
 
 🍿 Teck stack
 
-- Backoffice            
+- Backoffice        
     ```Laravel 9```
 - Customer mobile app
     ```Flutter```
